@@ -10,6 +10,7 @@ let items = [
   "Bakra Mandi",
   "Tench Bhatta",
   "Dhok Sayedan",
+  "Blue Area",
 ];
 const handleSelectItem = (item: string) => {
   console.log(item);
